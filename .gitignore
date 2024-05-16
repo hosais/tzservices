@@ -1,2 +1,4 @@
 id.txt
 db_info.json
+*.pyc
+req.txt

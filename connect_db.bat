@@ -1,0 +1,1 @@
+e:\software\MongoDb\mongosh\bin\mongosh "mongodb+srv://tzcluster.fp5yu.mongodb.net/tzdb" --apiVersion 1 --username tzmongo
